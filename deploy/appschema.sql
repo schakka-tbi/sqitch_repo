@@ -1,4 +1,5 @@
 -- Deploy flipr:appschema to snowflake
 
 USE WAREHOUSE &warehouse;
-CREATE SCHEMA SARATH;
+CREATE SCHEMA FLIPR;
+CREATE SCHEMA Dummy;
