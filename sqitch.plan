@@ -3,5 +3,5 @@
 %uri=https://github.com/schakka-tbi/sqitch_repo/
 
 appschema 2020-01-21T20:37:17Z Sarath Chakka <cc423@tmw.com> # added new schema under flipr ( schema name SARATH)
-deploy/appschema 2020-01-22T20:06:16Z Sarath Chakka <cc423@tmw.com> # create schema added for testing
-revert/appschema 2020-01-22T20:06:47Z Sarath Chakka <cc423@tmw.com> # drop  schema  dummy  added for testing
+appschema 2020-01-22T20:06:16Z Sarath Chakka <cc423@tmw.com> # create schema added for testing
+appschema 2020-01-22T20:06:47Z Sarath Chakka <cc423@tmw.com> # drop  schema  dummy  added for testing
